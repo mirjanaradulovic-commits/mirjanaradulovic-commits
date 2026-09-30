@@ -1,6 +1,4 @@
-# mirjanaradulovic-commits
-
-# 👋 Hi, ich bin Mirjana Radulovic
+👋 Hi, ich bin Mirjana Radulovic
 
 Ich absolviere aktuell eine Umschulung zur **Fachinformatikerin für Anwendungsentwicklung (FIAE)** am Syntax Institut in Hamburg. 
 
